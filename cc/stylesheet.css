@@ -1,0 +1,43 @@
+
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #0b2b92;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Copperplate, serif;
+}
+
+.header a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 30px;
+    font-size: 30px;
+}
+
+.background-image {
+    background-image: url("https://cdn.discordapp.com/attachments/1097431578562547772/1120263378192044113/Naamloos.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1080px; 
+    padding-top: 10px;
+    color: #fff;
+    font-size: 50px;
+}
+
+.background-image h1 {
+    padding-top: 150px;
+    padding-left: 100px;
+}
+
+.background-image iframe {
+    width: 80%;
+    height: 1080px;
+    padding-left: 190px;
+}
