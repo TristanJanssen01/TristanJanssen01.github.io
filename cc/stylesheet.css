@@ -17,7 +17,7 @@ body {
     color: #fff;
     text-decoration: none;
     margin-right: 30px;
-    font-size: 30px;
+    font-size: 1.2em;
 }
 
 .background-image {
@@ -28,7 +28,7 @@ body {
     height: 1080px; 
     padding-top: 10px;
     color: #fff;
-    font-size: 50px;
+    font-size: 3em;
 }
 
 .background-image h1 {
