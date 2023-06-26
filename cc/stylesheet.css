@@ -41,3 +41,8 @@ body {
     height: 1080px;
     padding-left: 190px;
 }
+
+.background-image video {
+    display: block;
+    margin:auto;
+}
